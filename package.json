@@ -1,0 +1,19 @@
+{
+  "name": "cse342-final-team-project",
+  "version": "1.0.0",
+  "description": "This is the final tem project for class CSE 341 - BYU Idaho.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrenzink/cse341-team-project.git"
+  },
+  "author": "Andrea Brenzink / Aaron Burnside / Daniel Idorot / Diego Feresin / Heidi Bankhead",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abrenzink/cse341-team-project/issues"
+  },
+  "homepage": "https://github.com/abrenzink/cse341-team-project#readme"
+}
